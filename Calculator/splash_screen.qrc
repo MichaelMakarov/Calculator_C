@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>Witch_King.png</file>
+    </qresource>
+</RCC>
